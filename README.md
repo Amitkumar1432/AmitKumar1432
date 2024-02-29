@@ -4,13 +4,13 @@
 
 
 
-- 🌱 I’m currently learning **MEAN Stack development and UX/UI Design**
+- 🌱 I’m currently learning **React development and UX/UI Design**
 
-- 👯 I’m looking to collaborate on **MEAN Stack / UX Projects**
+- 👯 I’m looking to collaborate on **MEAN Stack /**
 
-- 💬 Ask me about **VueJs , Angular , WordPress ...**
+- 💬 Ask me about **JavaScript, React js, Next js...**
 
-- 📫 How to reach me **soukayna.tech@gmail.com**
+- 📫 How to reach me **amitkumar170121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
