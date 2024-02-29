@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React development and UX/UI Design**
+- 🌱 I’m currently learning **Node js and UX/UI Design**
 
 - 👯 I’m looking to collaborate on **MEAN Stack /**
 
