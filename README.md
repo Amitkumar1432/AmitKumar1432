@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Node js and UX/UI Design**
 
-- 👯 I’m looking to collaborate on **MEAN Stack /**
-
 - 💬 Ask me about **JavaScript, React js, Next js...**
 
 - 📫 How to reach me **amitkumar170121@gmail.com**
